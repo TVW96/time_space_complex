@@ -1,10 +1,9 @@
 # Assignment: Analyzing Time and Space Complexity
 
 ### Objective:
-Develop your ability to analyze and determine the time and space complexity of algorithms implemented in Python or Java
+Develop your ability to analyze and determine the time and space complexity of algorithms implemented in Python or Java by performing code analysis. 
 
 ## Instructions:
-### Code Analysis: 
 Below are several code snippets in your chosen language (Python or Java). 
           
   For each snippet, perform the following tasks:
