@@ -1,5 +1,7 @@
 # Assignment: Analyzing Time and Space Complexity
 
+
+
 ### Objective:
 Develop your ability to analyze and determine the time and space complexity of algorithms implemented in Python or Java by performing code analysis. 
 
@@ -7,11 +9,11 @@ Develop your ability to analyze and determine the time and space complexity of a
 Below are several code snippets in your chosen language (Python or Java). 
           
   For each snippet, perform the following tasks:
-
-- [ ] Determine the time complexity, explaining your reasoning step by step.
-- [ ] Determine the space complexity, providing a rationale for your analysis.
-- [ ] Suggest any possible improvements to reduce the complexity, if applicable.
-- [ ] Submission: Submit a document containing your analysis and explanations. Include any code modifications you propose to improve the algorithm's efficiency.  
+- [ ] **Resubmit using a hashsets instead of arrays**
+- [x] Determine the time complexity, explaining your reasoning step by step.
+- [x] Determine the space complexity, providing a rationale for your analysis.
+- [x] Suggest any possible improvements to reduce the complexity, if applicable.
+- [x] Submission: Submit a document containing your analysis and explanations. Include any code modifications you propose to improve the algorithm's efficiency.  
 
   
 
