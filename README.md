@@ -1,8 +1,14 @@
 # Assignment: Analyzing Time and Space Complexity
+## Code Analysis: 
+### **Time complexity = O(n^2)**
+The outer loop *i* runs *n* times and inner loop *j* runs from (i+1) to (n-1), dependent on current value of *i*. **Total iterations = (n-1) + (n-2) + ... + 1 + 0 = n(n-1)/2**
+### **Space complexity = O(1)**
+The output uses a fixed amount of space provided to loop variables i and j. Each pair is not counted in space complexity because it does not grow with input size, in terms of storage.
 
+### Reducing complexity
+For the specific use case of printing all unique pairs within an array O(n^2) is inherent because we need to consider every combination. **consider possiblities of duplicate numbers in array. In this case a hash set would be needed.**
 
-
-### Objective:
+## Objective:
 Develop your ability to analyze and determine the time and space complexity of algorithms implemented in Python or Java by performing code analysis. 
 
 ## Instructions:
